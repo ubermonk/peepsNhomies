@@ -1,4 +1,3 @@
-
 import unittest
 
 class SimplisticTest(unittest.TestCase):

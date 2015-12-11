@@ -1,4 +1,3 @@
-
 import unittest
 
 class TruthTest(unittest.TestCase):
